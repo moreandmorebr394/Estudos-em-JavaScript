@@ -1,1 +1,2 @@
-# Estudos-em-JavaScript
+# Estudos em JavaScript
+# Les études en JavaScript
